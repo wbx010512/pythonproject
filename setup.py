@@ -14,6 +14,7 @@ setuptools.setup(
     url="https://github.com/wbx010512/pythonProject.git",
     packages=setuptools.find_packages(),
     install_requires=[''],
+    license = 'MIT',
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
